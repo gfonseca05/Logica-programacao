@@ -1,0 +1,8 @@
+H:\LogP\TerceiraEtapa\Matriz03\Matriz03\bin\Debug\Matriz03.exe.config
+H:\LogP\TerceiraEtapa\Matriz03\Matriz03\bin\Debug\Matriz03.exe
+H:\LogP\TerceiraEtapa\Matriz03\Matriz03\bin\Debug\Matriz03.pdb
+H:\LogP\TerceiraEtapa\Matriz03\Matriz03\obj\Debug\Matriz03.csproj.AssemblyReference.cache
+H:\LogP\TerceiraEtapa\Matriz03\Matriz03\obj\Debug\Matriz03.csproj.SuggestedBindingRedirects.cache
+H:\LogP\TerceiraEtapa\Matriz03\Matriz03\obj\Debug\Matriz03.csproj.CoreCompileInputs.cache
+H:\LogP\TerceiraEtapa\Matriz03\Matriz03\obj\Debug\Matriz03.exe
+H:\LogP\TerceiraEtapa\Matriz03\Matriz03\obj\Debug\Matriz03.pdb

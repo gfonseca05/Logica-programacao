@@ -1,0 +1,8 @@
+H:\LogP\TerceiraEtapa\Ex09Pag62\Ex09Pag62\bin\Debug\Ex09Pag62.exe.config
+H:\LogP\TerceiraEtapa\Ex09Pag62\Ex09Pag62\bin\Debug\Ex09Pag62.exe
+H:\LogP\TerceiraEtapa\Ex09Pag62\Ex09Pag62\bin\Debug\Ex09Pag62.pdb
+H:\LogP\TerceiraEtapa\Ex09Pag62\Ex09Pag62\obj\Debug\Ex09Pag62.csproj.AssemblyReference.cache
+H:\LogP\TerceiraEtapa\Ex09Pag62\Ex09Pag62\obj\Debug\Ex09Pag62.csproj.SuggestedBindingRedirects.cache
+H:\LogP\TerceiraEtapa\Ex09Pag62\Ex09Pag62\obj\Debug\Ex09Pag62.csproj.CoreCompileInputs.cache
+H:\LogP\TerceiraEtapa\Ex09Pag62\Ex09Pag62\obj\Debug\Ex09Pag62.exe
+H:\LogP\TerceiraEtapa\Ex09Pag62\Ex09Pag62\obj\Debug\Ex09Pag62.pdb
